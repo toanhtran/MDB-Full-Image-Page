@@ -7,9 +7,13 @@ body,
 }
 
 .view {
-    background: url("http://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
+    background: url("../images/frozen_berries-min.jpeg")no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.flex-center {
+    color: #fff;
 }
